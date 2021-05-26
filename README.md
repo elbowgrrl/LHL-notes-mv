@@ -6,4 +6,4 @@ ___
 * [Week 1](/week-1)
   * [Day 1](/week-1/day-1)
   * [Day 2](/week-1/day-2)
-  * [Day 3](/week-1/day-3)
+  * [Day 3 - Object Literals](/week-1/day-3)

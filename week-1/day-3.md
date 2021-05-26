@@ -2,7 +2,7 @@
 ## Object Literals
 - A non-primitive data type, often used to store more complex data and methods.
 - contain key/value pairs. Each key in an object is unique ```{key: value}```
-- Object keys are always strings (or symbols[uncommon])
+- Object keys are always strings (or symbols[uncommon]). It is possible to use spaces, kyphens or periods in keys, but then they have to be wrapped in quotes.
 - Object values can be any type (Primitive or non-primitive, including other objects.)
 
 ``` 
